@@ -1,7 +1,7 @@
 name: deeplink_connect
 description: "Plugin construido para auxiliar consumo de pagamentos por deeplink"
 version: 0.0.1
-homepage:
+homepage: https://github.com/israel-oliveira/deeplink_connect
 
 environment:
   sdk: '>=3.4.1 <4.0.0'

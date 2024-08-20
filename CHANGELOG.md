@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.1 - Primeira realase
 
-* TODO: Describe initial release.
+* Subindo projeto para testes
